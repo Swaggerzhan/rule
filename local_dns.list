@@ -1,0 +1,9 @@
+; local dns
+DOMAIN,aurora.com
+DOMAIN-SUFFIX,aurora.com
+DOMAIN,ares.com
+DOMAIN-SUFFIX,ares.com
+DOMAIN,zeus.com
+DOMAIN-SUFFIX,zeus.com
+DOMAIN,athena.com
+DOMAIN-SUFFIX,athena.com
